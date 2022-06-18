@@ -1,0 +1,22 @@
+LINE 1
+{
+LINE 1 1
+{
+LINE 1 1 1
+{
+}
+LINE 1 1 2
+}
+LINE 1 2
+{
+LINE 1 2 1
+{
+}
+}
+}
+LINE 2
+{
+LINE 2 1
+{
+}
+}
